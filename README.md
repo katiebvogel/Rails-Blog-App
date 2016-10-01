@@ -5,22 +5,10 @@ This application is a basic Ruby tutorial for a blog
 from tutorial:
 http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 9/30/16 -- leaving off at Chapter 5.12 "Listing Articles"
+10/1/16 -- Using Partials to cleanup duplication in views
+          Leaving off at:  5.13:  DELETING Articles
+
+10/2/16 -- 
 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version 2.3.1
