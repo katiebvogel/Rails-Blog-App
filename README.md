@@ -11,7 +11,7 @@ http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 10/2/16 -- Deleting Articles, 6.1 Generating a New Model (adding comments to articles)
         Leaving off at:  6.2 Associating Models
 
-10/3/16 --
+10/3/16 -- 
 
 
 * Ruby version 2.3.1
