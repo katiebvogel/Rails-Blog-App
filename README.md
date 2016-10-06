@@ -13,7 +13,8 @@ http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 
 10/3/16 --> 10/5/16-- Made changes on a different machine and having push/pull conflicts
   Working on a new Ruby project at work and delving into Solidus.
-  
+
+  10/6/16 -- Today, added CREATE comments (and created a partial form for new comments to be rendered within the article.show.html.erb), and also DESTROY comments.  If an article is destroyed, its associated comments will also be destroyed, thanks to a small change in the articles model.  dependent: :destroy   .   Leaving off at Chapter 9 - SECURITY 
 
 
 
