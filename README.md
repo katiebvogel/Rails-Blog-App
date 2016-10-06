@@ -11,7 +11,10 @@ http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 10/2/16 -- Deleting Articles, 6.1 Generating a New Model (adding comments to articles)
         Leaving off at:  6.2 Associating Models
 
-10/3/16 -- 
+10/3/16 --> 10/5/16-- Made changes on a different machine and having push/pull conflicts
+  Working on a new Ruby project at work and delving into Solidus.
+  
+
 
 
 * Ruby version 2.3.1
