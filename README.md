@@ -16,7 +16,11 @@ http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 
   10/6/16 -- Today, added CREATE comments (and created a partial form for new comments to be rendered within the article.show.html.erb), and also DESTROY comments.  If an article is destroyed, its associated comments will also be destroyed, thanks to a small change in the articles model.  dependent: :destroy   .   Leaving off at Chapter 9 - SECURITY
 
-  10/7/16 -- leaving off after adding security auth requirements.  9.2.  Start at Ch 10 next
+  10/7/16 -- leaving off after adding security auth requirements.  9.2.  
+
+  10/8/16 -- adding some SCSS.  Using Bootstrap.
+  gem install boostrap-sass
+  
 
 
 
