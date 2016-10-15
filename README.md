@@ -20,8 +20,8 @@ http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 
   10/8/16 -- adding some SCSS.  Using Bootstrap.
   gem install boostrap-sass
-  
 
+10/15/16 -- working with some SCSS and bootstrap
 
 
 * Ruby version 2.3.1
